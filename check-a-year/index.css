@@ -1,0 +1,53 @@
+.check-a-year-form{
+ display: flex;
+}
+.check-a-year-input{
+    background-color: #D7D7D7;
+    border: none;
+    width: 215px;
+    height: 35px;
+    color: #7E7E7E;
+    padding-left: 10px;
+    font-family: "Montserrat Alternates", sans-serif;
+    border-radius: 20px;
+}
+.check-a-year-input:focus{
+    outline: none;
+}
+.inputs-button{
+    position: absolute;
+    margin-left: 195px;
+    width: 35px;
+    height: 37px;
+    border: none;
+    background-color: #000000;
+    border-radius: 0px 20px 20px 0px;
+    cursor: pointer;
+}
+.grey-paragraph{
+    width: 224px;
+    height: 15px;
+    color: #7E7E7E;
+    font-family: "Montserrat Alternates", sans-serif;
+    font-size: 12px;
+    margin-left: 202px;
+}
+.green-paragraph{
+    width: 224px;
+    height: 15px;
+    color: #039900;
+    font-family: "Montserrat Alternates", sans-serif;
+    font-size: 12px;
+    margin-left: 202px;
+}
+.red-paragraph{
+    width: 224px;
+    height: 15px;
+    color: #990000;
+    font-family: "Montserrat Alternates", sans-serif;
+    font-size: 12px;
+    margin-left: 202px;
+}
+.check-a-year-div{
+    display: flex;
+}
